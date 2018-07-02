@@ -2,10 +2,7 @@
 
 ## Generate tokens
 
-![First screen](https://image.prntscr.com/image/wyW_R-ONR3OMoQLdin-TOg.png)
+![First screen](https://image.prntscr.com/image/-ptsJFhqRaikp3Fu7yljBg.png)
 
-## Choose image
-
-![Choose image](https://image.prntscr.com/image/1NEzBmrgQvKRqu1SpM_oHQ.png)
 
 
